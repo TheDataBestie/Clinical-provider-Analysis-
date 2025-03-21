@@ -11,7 +11,7 @@ In today’s healthcare landscape, *data-driven decision-making is essential* to
 ❌ *Data inconsistencies and missing values*, which can lead to inaccurate reporting.  
 ❌ *Inefficient resource allocation*, leading to longer wait times and reduced patient satisfaction.  
 ❌ *Lack of data on provider performance*, making it hard to recognize top-performing professionals.
-❌ *Understanding death rate and recovery rate.*
+❌ *Understanding death rate and recovery rate*.
 
 ### *The Solution: Clinical Provider Dashboard* 🚑📊  
 
