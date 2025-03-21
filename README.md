@@ -93,7 +93,7 @@ With *this dashboard, hospitals and clinics can move from reactive management to
 
 ## *🚀 How to Use This Dashboard*  
 
-1. *Download the dashboard file* click[here](https://app.powerbi.com/links/roYNFUZNZQ?ctid=60d5e9db-49bd-407d-9e28-8b9f4d8a6480&pbi_source=linkShare).  
+1. *Download the dashboard file* click [here](https://app.powerbi.com/links/roYNFUZNZQ?ctid=60d5e9db-49bd-407d-9e28-8b9f4d8a6480&pbi_source=linkShare).  
 8. Open in *Power BI * and explore the interactive insights.  
 9. Use the *filters* (Cancer, Ethnicity, Age Group, etc.) to analyze specific patient groups and trends.  
 10. Drill down into *care duration, patient type, and provider effectiveness* to make data-driven decisions.  
