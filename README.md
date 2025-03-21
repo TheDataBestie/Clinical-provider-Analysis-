@@ -13,6 +13,7 @@ In today’s healthcare landscape, *data-driven decision-making is essential* to
 ❌ *Lack of data on provider performance*, making it hard to recognize top-performing professionals.
 ❌ *Understanding death rate and recovery rate*.
 
+
 ### *The Solution: Clinical Provider Dashboard* 🚑📊  
 
 This *interactive dashboard* solves these challenges by offering *real-time, data-driven insights* into patient demographics, visit trends, healthcare provider effectiveness, and a *special focus on cancer patients*.  
