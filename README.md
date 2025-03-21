@@ -72,11 +72,11 @@ This dashboard includes multiple filters to *help healthcare providers analyze s
 
 ## *🚀 Real-World Impact of This Dashboard*  
 
-🔹 *Reduces Patient Wait Times: By **analyzing visit trends*, hospitals can schedule appointments more efficiently.  
-🔹 *Improves Patient Survival Rates: By tracking **live status* and *treatment outcomes*, doctors can enhance patient care.  
-🔹 *Enhances Healthcare Efficiency: By identifying **top-performing professionals*, hospitals can optimize staffing.  
-🔹 *Supports Cancer Research & Treatment: By filtering data for **cancer patients*, healthcare providers can improve specialized care.  
-🔹 *Informs Financial & Resource Planning: By predicting **patient volume*, hospitals can allocate budgets effectively.  
+🔹 *Reduces Patient Wait Times*: By *analyzing visit trends*, hospitals can schedule appointments more efficiently.  
+🔹 *Improves Patient Survival Rates*: By tracking *live status* and *treatment outcomes*, doctors can enhance patient care.  
+🔹 *Enhances Healthcare Efficiency*: By identifying *top-performing professionals*, hospitals can optimize staffing.  
+🔹 *Supports Cancer Research & Treatment*: By filtering data for *cancer patients*, healthcare providers can improve specialized care.  
+🔹 *Informs Financial & Resource Planning*: By predicting *patient volume*, hospitals can allocate budgets effectively.  
 
 With *this dashboard, hospitals and clinics can move from reactive management to proactive, data-driven healthcare decisions!* 🚑💡  
 
@@ -86,7 +86,7 @@ With *this dashboard, hospitals and clinics can move from reactive management to
 
 🔹 *Power BI* – Data visualization & analysis  
 🔹 *Excel* – Data preprocessing  
-🔹 *SQL / Python * – Data transformation  
+🔹 *SQL/Python* – Data transformation  
 
 ---
 
