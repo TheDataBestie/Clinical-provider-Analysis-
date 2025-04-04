@@ -1,7 +1,7 @@
 # Clinical-provider-Analysis-
 # *Hi Besties! 👋 Welcome to the Clinical Provider Dashboard!*   
 
-clinical providers play a crucial role in patient outcomes, but how do we measure their impact? This project was inspired by the need to analyze provider effectiveness, patient demographics, and care trends to improve healthcare services.  
+clinical providers play a crucial role in patient outcomes, but how do we measure their impact? This project was inspired by the need to analyze provider effectiveness, patient demographics, and care trends to improve healthcare services..  
 
 
 ## 📊 *Transforming Healthcare with Data-Driven Insights*  
